@@ -39,6 +39,7 @@ on recent material.
 * [Which Global Illumination Technique Is Best For Your Game?](http://www.makinggames.biz/feature/which-global-illumination-technique-is-best-for-your-game,9520.html)
 * [GI in Games (PDF)](http://fileadmin.cs.lth.se/cs/Education/EDAN35/lectures/Stefanov10-gi-in-games-notes.pdf)
 * [Stunning Video Game Graphics With Voxel Cone Tracing (Video)](https://www.youtube.com/watch?v=dQSzmngTbtw)
+* [Implementing Voxel Cone Tracing](http://simonstechblog.blogspot.com/2013/01/implementing-voxel-cone-tracing.html)
 
 # Optimizations
 * [Triple Depth Culling](http://gautron.pascal.free.fr/publications/s2011/s2011.pdf)
