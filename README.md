@@ -27,8 +27,9 @@ on recent material.
 # Physically Based Rendering
 * [Physically based shading papers/tutorials?](https://www.reddit.com/r/GraphicsProgramming/comments/43egtm/physically_based_shading_paperstutorials/) - Reddit Thread
 * [Moving Frostbite to PBR](http://www.frostbite.com/2014/11/moving-frostbite-to-pbr/)
+* [PBR and Light Source Amount in Modern Games (thread)](https://www.gamedev.net/topic/684857-pbr-and-light-source-amount-in-modern-games/)
 
-# Lighing
+# Lighiing
 * [Forward+ (PDF)](https://takahiroharada.files.wordpress.com/2015/04/forward_plus.pdf)
 * [Forward vs Deferred vs Forward+ Rendering with DirectX 11](http://www.3dgep.com/forward-plus/)
 
