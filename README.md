@@ -29,6 +29,7 @@ on recent material.
 * [Physically based shading papers/tutorials?](https://www.reddit.com/r/GraphicsProgramming/comments/43egtm/physically_based_shading_paperstutorials/) - Reddit Thread
 * [Moving Frostbite to PBR](http://www.frostbite.com/2014/11/moving-frostbite-to-pbr/)
 * [PBR and Light Source Amount in Modern Games (thread)](https://www.gamedev.net/topic/684857-pbr-and-light-source-amount-in-modern-games/)
+* [PBR Guide (Allegoritmic)](https://www.allegorithmic.com/pbr-guide)
 
 # Lighiing
 * [Forward+ (PDF)](https://takahiroharada.files.wordpress.com/2015/04/forward_plus.pdf)
