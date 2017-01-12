@@ -66,6 +66,7 @@ on recent material.
 # Blogs 
 * [Humus](http://www.humus.name/index.php?page=News) - 3D game engine research and techniques
 * [Yume Engine](http://arkenthera.github.io/blog/) - 3D Engine research
+* [BitSquid/Stingray](http://bitsquid.blogspot.ca/)- Autodesk Engine
 
 # Sites
 * [The Journal of Computer Graphics Techniques](http://jcgt.org/read.html?reload=1)
