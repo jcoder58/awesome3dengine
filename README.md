@@ -13,12 +13,13 @@ on recent material.
 * [Real-Time 3D Rendering with DirectX and HLSL by Paul Varcholik](https://www.amazon.com/Real-Time-Rendering-DirectX-HLSL-Programming-ebook/dp/B00K3NR6OC) - Windows only. 
 * [Designing a Modern Rendering Engine (PDF)](https://www.cg.tuwien.ac.at/research/publications/2007/bauchinger-2007-mre/bauchinger-2007-mre-Thesis.pdf) - Thesis from 2007 so somewhat dated, but good starting point (and free).
 
-# Overview
+# Design
 * [Data Driven Renderer (PDF)](http://gamedevs.org/uploads/benefits-of-a-data-driven-renderer.pdf) - [Discussion thread](http://gamedevs.org/uploads/benefits-of-a-data-driven-renderer.pdf)
 * [Modern Renderer Design (Thread)](https://www.gamedev.net/topic/671640-modern-renderer-design/)
 * [OpenGL Renderer Design (Blog post)](https://nlguillemot.wordpress.com/2016/11/18/opengl-renderer-design/)
 * [Rendering Engine Design (PDF)](http://www.elmindreda.org/lectures/opengl-lecture2.pdf)
 * [A Reactive 3D Game Engine in Scala](https://speakerdeck.com/axel22/a-reactive-3d-game-engine-in-scala)
+* [Stateless Rendering](http://jendrikillner.bitbucket.org/blog/blog/stateless_rendering/)
 
 # Videos
 * [3D Game Engine Development](https://www.youtube.com/playlist?list=PLEETnX-uPtBXP_B2yupUKlflXBznWIlL5)
