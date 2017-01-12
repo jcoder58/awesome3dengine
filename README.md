@@ -31,7 +31,7 @@ on recent material.
 * [PBR and Light Source Amount in Modern Games (thread)](https://www.gamedev.net/topic/684857-pbr-and-light-source-amount-in-modern-games/)
 * [PBR Guide (Allegoritmic)](https://www.allegorithmic.com/pbr-guide)
 
-# Lighiing
+# Lighting
 * [Forward+ (PDF)](https://takahiroharada.files.wordpress.com/2015/04/forward_plus.pdf)
 * [Forward vs Deferred vs Forward+ Rendering with DirectX 11](http://www.3dgep.com/forward-plus/)
 
@@ -46,6 +46,7 @@ on recent material.
 * [Show HN: OpenGL in super slow motion – visualising Z-buffering](https://news.ycombinator.com/item?id=12030172)
 * [Fast Hierarchical Culling](https://cesiumjs.org/2015/08/04/Fast-Hierarchical-Culling/)
 * [Making Faster Fragment Shaders by Using Tessellation Shaders](https://erkaman.github.io/posts/tess_opt.html)
+* [Automatic Shader Simplification using Surface Signal Approximation (PDF)](http://www.cad.zju.edu.cn/home/bao/pub/36.pdf)
 
 # Vulkan
 * [Vulkan in Banshee 3D](http://www.banshee3d.com/blog/post/vulkan-now-available-rendering-backend)
