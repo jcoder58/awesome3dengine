@@ -14,7 +14,7 @@ on recent material.
 * [Designing a Modern Rendering Engine (PDF)](https://www.cg.tuwien.ac.at/research/publications/2007/bauchinger-2007-mre/bauchinger-2007-mre-Thesis.pdf) - Thesis from 2007 so somewhat dated, but good starting point (and free).
 
 # Design
-* [Data Driven Renderer (PDF)](http://gamedevs.org/uploads/benefits-of-a-data-driven-renderer.pdf) - [Discussion thread](http://gamedevs.org/uploads/benefits-of-a-data-driven-renderer.pdf)
+* [Data Driven Renderer (PDF)](http://gamedevs.org/uploads/benefits-of-a-data-driven-renderer.pdf)
 * [Modern Renderer Design (Thread)](https://www.gamedev.net/topic/671640-modern-renderer-design/)
 * [OpenGL Renderer Design (Blog post)](https://nlguillemot.wordpress.com/2016/11/18/opengl-renderer-design/)
 * [Rendering Engine Design (PDF)](http://www.elmindreda.org/lectures/opengl-lecture2.pdf)
