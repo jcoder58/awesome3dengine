@@ -29,3 +29,6 @@ on recent material.
 # Other Lists
 * [Real-Time Global Illumination Techniques Collection](https://extremeistan.wordpress.com/2014/05/11/realtime-global-illumination-techniques-collection/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
+* [Ke-Sen Huang's List](http://kesen.realtimerendering.com/) - Long list of graphics conference papers.
+
+
