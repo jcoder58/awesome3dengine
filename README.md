@@ -1,4 +1,4 @@
-# Awsome 3D Engine List
+# Awesome 3D Engine List
 
 This is a list of 3D Engine related papers and code resources.  It focuses on game engine resources, mostly
 on recent material.
