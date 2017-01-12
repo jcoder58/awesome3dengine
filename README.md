@@ -20,6 +20,7 @@ on recent material.
 * [Rendering Engine Design (PDF)](http://www.elmindreda.org/lectures/opengl-lecture2.pdf)
 * [A Reactive 3D Game Engine in Scala](https://speakerdeck.com/axel22/a-reactive-3d-game-engine-in-scala)
 * [Stateless Rendering](http://jendrikillner.bitbucket.org/blog/blog/stateless_rendering/)
+* [Destinys's Renderer](http://advances.realtimerendering.com/destiny/gdc_2015/Tatarchuk_GDC_2015__Destiny_Renderer_web.pdf)
 
 # Videos
 * [3D Game Engine Development](https://www.youtube.com/playlist?list=PLEETnX-uPtBXP_B2yupUKlflXBznWIlL5)
