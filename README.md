@@ -59,6 +59,7 @@ on recent material.
 
 # Code
 * https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer - Vulkan Forward+ Renderer
+* https://github.com/jian-ru/laugh_engine - A Vulkan implementation of real-time PBR rendere
 * https://github.com/BearishSun/BansheeEngine - Full C++14 Engine with Vulkan renederer
 * https://github.com/Friduric/voxel-cone-tracing- Voxel Code Tracing
 * https://github.com/domme/VoxelConeTracing - Voxel Code Tracing
