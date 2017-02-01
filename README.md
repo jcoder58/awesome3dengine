@@ -35,6 +35,7 @@ on recent material.
 # Lighting
 * [Forward+ (PDF)](https://takahiroharada.files.wordpress.com/2015/04/forward_plus.pdf)
 * [Forward vs Deferred vs Forward+ Rendering with DirectX 11](http://www.3dgep.com/forward-plus/)
+* [Tile based forward rendering?](https://www.gamedev.net/topic/612789-tile-based-forward-rendering/)
 
 # Global Illumination
 * [Which Global Illumination Technique Is Best For Your Game?](http://www.makinggames.biz/feature/which-global-illumination-technique-is-best-for-your-game,9520.html)
@@ -42,12 +43,22 @@ on recent material.
 * [Stunning Video Game Graphics With Voxel Cone Tracing (Video)](https://www.youtube.com/watch?v=dQSzmngTbtw)
 * [Implementing Voxel Cone Tracing](http://simonstechblog.blogspot.com/2013/01/implementing-voxel-cone-tracing.html)
 
+# Shaders
+* [Shader Forge (Unity)](https://www.assetstore.unity3d.com/en/#!/content/14147)
+* [Shader Sandwich](https://www.assetstore.unity3d.com/en/#!/content/41290)
+
+# Terrain and Sky
+* [Virtual Terain Project](http://vterrain.org/)
+* [Creating our own Skydome](]http://blog.wolfire.com/2009/02/creating-our-own-skydomes/)
+
 # Optimizations
 * [Triple Depth Culling](http://gautron.pascal.free.fr/publications/s2011/s2011.pdf)
 * [Show HN: OpenGL in super slow motion – visualising Z-buffering](https://news.ycombinator.com/item?id=12030172)
 * [Fast Hierarchical Culling](https://cesiumjs.org/2015/08/04/Fast-Hierarchical-Culling/)
 * [Making Faster Fragment Shaders by Using Tessellation Shaders](https://erkaman.github.io/posts/tess_opt.html)
+* [Optimizing the Graphics Pipeline with Compute - Frostbite](http://www.frostbite.com/2016/03/optimizing-the-graphics-pipeline-with-compute/)
 * [Automatic Shader Simplification using Surface Signal Approximation (PDF)](http://www.cad.zju.edu.cn/home/bao/pub/36.pdf)
+
 
 # Vulkan
 * [Vulkan in Banshee 3D](http://www.banshee3d.com/blog/post/vulkan-now-available-rendering-backend)
@@ -57,7 +68,13 @@ on recent material.
 * [Unified Particle Physics for Real-Time Applications](http://mmacklin.com/uppfrta_preprint.pdf)
 * [A Stream-based Time Synchronization Technique For Networked Computer Games](http://www.mine-control.com/zack/timesync/timesync.html)
 
+# AI
+* [ThelDoctor/CrystalAI: A Utility Theory Based AI for C# and Unity](https://github.com/ThelDoctor/CrystalAI)
+
 # Code
+* [Building a 3D Game Engine with .NET Core](https://mellinoe.wordpress.com/2017/01/18/net-core-game-engine/)
+* [EntityX - Fast Entity Component](https://github.com/alecthomas/entityx)
+* [Tiny Renderers](https://github.com/chaoticbob/tinyrenderers)
 * https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer - Vulkan Forward+ Renderer
 * https://github.com/jian-ru/laugh_engine - A Vulkan implementation of real-time PBR rendere
 * https://github.com/BearishSun/BansheeEngine - Full C++14 Engine with Vulkan renederer
@@ -73,6 +90,9 @@ on recent material.
 * [Yume Engine](http://arkenthera.github.io/blog/) - 3D Engine research
 * [BitSquid/Stingray](http://bitsquid.blogspot.ca/)- Autodesk Engine
 
+# Tutorials
+* [OpenGL Step by Step - OpenGL Development](http://ogldev.atspace.co.uk/index.html)
+
 # Sites
 * [The Journal of Computer Graphics Techniques](http://jcgt.org/read.html?reload=1)
 
@@ -84,9 +104,9 @@ on recent material.
 * [/r/Vulkan](https://www.reddit.com/r/Vulkan/)
 * [/r/DirectX](https://www.reddit.com/r/DirectX/)
 
-# Data
+# Resources
 * http://graphics.cs.williams.edu/data/meshes.xml
-
+* [Textures](http://www.humus.name/index.php?page=Textures)
 
 # Other Lists
 * [GDC 2016 Presentations](https://knarkowicz.wordpress.com/2016/03/21/gdc-2016-presentations/)
@@ -96,5 +116,13 @@ on recent material.
 * [Ke-Sen Huang's List](http://kesen.realtimerendering.com/) - Long list of graphics conference papers.
 * [Awsome Graphics](https://github.com/ericjang/awesome-graphics)
 * [Sample 3D Data](http://graphics.cs.williams.edu/data/links.xml)
+* [A list of Game Development resources to make magic happen.](https://github.com/ellisonleao/magictools)
+
+
+
+
+
+
+
 
 
