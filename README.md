@@ -31,6 +31,8 @@ on recent material.
 * [Moving Frostbite to PBR](http://www.frostbite.com/2014/11/moving-frostbite-to-pbr/)
 * [PBR and Light Source Amount in Modern Games (thread)](https://www.gamedev.net/topic/684857-pbr-and-light-source-amount-in-modern-games/)
 * [PBR Guide (Allegoritmic)](https://www.allegorithmic.com/pbr-guide)
+* [PBR for UE4](https://docs.unrealengine.com/latest/INT/Engine/Rendering/Materials/PhysicallyBased/)
+* [PBR for sketchfab](https://help.sketchfab.com/hc/en-us/articles/204429595-Materials-PBR)
 
 # Lighting
 * [Forward+ (PDF)](https://takahiroharada.files.wordpress.com/2015/04/forward_plus.pdf)
