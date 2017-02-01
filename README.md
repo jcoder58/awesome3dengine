@@ -36,6 +36,7 @@ on recent material.
 * [Forward+ (PDF)](https://takahiroharada.files.wordpress.com/2015/04/forward_plus.pdf)
 * [Forward vs Deferred vs Forward+ Rendering with DirectX 11](http://www.3dgep.com/forward-plus/)
 * [Tile based forward rendering?](https://www.gamedev.net/topic/612789-tile-based-forward-rendering/)
+* [2048 Point Lights @ 60 FPS](https://bioglaze.blogspot.fi/2014/07/2048-point-lights-60-fps.html)
 
 # Global Illumination
 * [Which Global Illumination Technique Is Best For Your Game?](http://www.makinggames.biz/feature/which-global-illumination-technique-is-best-for-your-game,9520.html)
@@ -89,6 +90,7 @@ on recent material.
 * [Humus](http://www.humus.name/index.php?page=News) - 3D game engine research and techniques
 * [Yume Engine](http://arkenthera.github.io/blog/) - 3D Engine research
 * [BitSquid/Stingray](http://bitsquid.blogspot.ca/)- Autodesk Engine
+* [Z-Fight Club](https://bioglaze.blogspot.fi/)
 
 # Tutorials
 * [OpenGL Step by Step - OpenGL Development](http://ogldev.atspace.co.uk/index.html)
