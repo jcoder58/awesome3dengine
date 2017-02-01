@@ -61,6 +61,7 @@ on recent material.
 * [Making Faster Fragment Shaders by Using Tessellation Shaders](https://erkaman.github.io/posts/tess_opt.html)
 * [Optimizing the Graphics Pipeline with Compute - Frostbite](http://www.frostbite.com/2016/03/optimizing-the-graphics-pipeline-with-compute/)
 * [Automatic Shader Simplification using Surface Signal Approximation (PDF)](http://www.cad.zju.edu.cn/home/bao/pub/36.pdf)
+* [Software optimization resources](http://www.agner.org/optimize/)
 
 
 # Vulkan
