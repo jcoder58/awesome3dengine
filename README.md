@@ -122,6 +122,7 @@ on recent material.
 * [Awsome Graphics](https://github.com/ericjang/awesome-graphics)
 * [Sample 3D Data](http://graphics.cs.williams.edu/data/links.xml)
 * [A list of Game Development resources to make magic happen.](https://github.com/ellisonleao/magictools)
+* [Graphics Programming Weekly](https://www.jendrikillner.com/article_database/)
 
 
 
