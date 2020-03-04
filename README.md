@@ -62,6 +62,7 @@ on recent material.
 * [Optimizing the Graphics Pipeline with Compute - Frostbite](http://www.frostbite.com/2016/03/optimizing-the-graphics-pipeline-with-compute/)
 * [Automatic Shader Simplification using Surface Signal Approximation (PDF)](http://www.cad.zju.edu.cn/home/bao/pub/36.pdf)
 * [Software optimization resources](http://www.agner.org/optimize/)
+* [Writing an efficient Vulkan Renderer)(https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 
 
 # Vulkan
