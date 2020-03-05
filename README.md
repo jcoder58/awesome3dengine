@@ -15,6 +15,7 @@ on recent material.
 
 # Design
 * [Data Driven Renderer (PDF)](http://gamedevs.org/uploads/benefits-of-a-data-driven-renderer.pdf)
+* [Data Driven Rendering by Gabriel Sassone](https://jorenjoestar.github.io/post/data_driven_rendering_pipeline/)
 * [Modern Renderer Design (Thread)](https://www.gamedev.net/topic/671640-modern-renderer-design/)
 * [OpenGL Renderer Design (Blog post)](https://nlguillemot.wordpress.com/2016/11/18/opengl-renderer-design/)
 * [Rendering Engine Design (PDF)](http://www.elmindreda.org/lectures/opengl-lecture2.pdf)
