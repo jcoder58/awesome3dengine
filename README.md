@@ -50,6 +50,7 @@ on recent material.
 # Shaders
 * [Shader Forge (Unity)](https://www.assetstore.unity3d.com/en/#!/content/14147)
 * [Shader Sandwich](https://www.assetstore.unity3d.com/en/#!/content/41290)
+* [The Machine Shader System](https://ourmachinery.com/post/the-machinery-shader-system-part-1/)
 
 # Terrain and Sky
 * [Virtual Terain Project](http://vterrain.org/)
@@ -65,6 +66,9 @@ on recent material.
 * [Software optimization resources](http://www.agner.org/optimize/)
 * [Writing an efficient Vulkan Renderer)(https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 
+# Entity Component Systems
+* [Wikipedia article](https://en.wikipedia.org/wiki/Entity_component_system)
+* [ECS and Rendering](https://ourmachinery.com/post/ecs-and-rendering/)
 
 # Vulkan
 * [Vulkan in Banshee 3D](http://www.banshee3d.com/blog/post/vulkan-now-available-rendering-backend)
