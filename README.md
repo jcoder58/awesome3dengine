@@ -4,7 +4,7 @@ This is a list of 3D Engine related papers and code resources.  It focuses on ga
 on recent material.
 
 # Beginning material
-* [Thinking about writing a game engine, where do I start?](https://www.reddit.com/r/gamedev/comments/30pcl6/thinking_about_writing_game_engine_where_do_i/) - Reddit thread that has lots of useful info.
+* [Game Engines - A Guide for Writing Your Own](https://www.reddit.com/r/gamedev/comments/96fdyr/game_engines_a_guide_for_writing_your_own/) - Reddit thread that has lots of useful info.
 * [Learn Computer Graphics From Scratch!](http://www.scratchapixel.com/)
 
 # Books
